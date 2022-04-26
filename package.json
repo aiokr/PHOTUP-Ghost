@@ -26,7 +26,7 @@
     "hexo-footnotes": "^1.0.2",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-search": "^2.4.3",
-    "hexo-generator-sitemap": "^2.1.0",
+    "hexo-generator-sitemap": "^3.0.1",
     "hexo-renderer-dartsass": "^0.1.2",
     "hexo-symbols-count-time": "^0.7.1",
     "lodash": "^4.17.21"
